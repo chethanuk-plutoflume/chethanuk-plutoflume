@@ -1,8 +1,9 @@
 🔭 Currently working as a **Senior Data Engineer**
 
 
-Connect with me here -
-![Linkedin Badge](https://img.shields.io/badge/-chethanuk-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)
+Connect with me here - [![Linkedin: thaianebraga](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)](https://www.linkedin.com/in/chethanuk/)
+[![GitHub ChethanUK](https://img.shields.io/github/followers/chethanuk-plutoflume?label=follow&style=social)](https://github.com/chethanuk-plutoflume)
+[![Twitter: BarcaTimes](https://img.shields.io/twitter/follow/BarcaTimes?style=social)](https://twitter.com/BarcaTimes)
 
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
