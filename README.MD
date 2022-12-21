@@ -1,4 +1,4 @@
-🔭 Currently working as a **Senior Data Engineer** who is architecting Big Data pipelines and Machine Learning pipelines in Cloud Native stack. 
+🔭 Currently working as a **Senior Data Engineer** who is architecting resilient scalable Big Data pipelines and Machine Learning pipelines in Cloud Native stack. Actively contributing to Apache Airflow, [Apache Pinot](https://www.startree.ai/blogs/apache-pinots-graduation-a-celebration-of-community-and-a-look-ahead) and other open-source projects
 
 "You have to dream before your dreams come true."
 
