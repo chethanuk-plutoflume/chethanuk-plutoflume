@@ -1,9 +1,9 @@
-🔭 Currently working as a **Senior Data Engineer** who is architecting resilient scalable Big Data pipelines and Machine Learning pipelines in Cloud Native stack. Actively contributing to Apache Airflow, [Apache Pinot](https://www.startree.ai/blogs/apache-pinots-graduation-a-celebration-of-community-and-a-look-ahead) and other open-source projects
+🔭 I am experienced **Senior Data Engineer** who is architecting resilient scalable Big Data pipelines and Machine Learning pipelines in Cloud Native stack. Actively contributing to Apache Airflow, [Apache Pinot](https://www.startree.ai/blogs/apache-pinots-graduation-a-celebration-of-community-and-a-look-ahead) and other open-source projects
 
 "You have to dream before your dreams come true."
 
 Connect with me here - [![Linkedin: ChethanUK](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)](https://www.linkedin.com/in/chethanuk/)
-[![GitHub ChethanUK](https://img.shields.io/github/followers/chethanuk-plutoflume?label=follow&style=social)](https://github.com/chethanuk-plutoflume)
+[![GitHub ChethanUK](https://img.shields.io/github/followers/chethanuk?label=follow&style=social)](https://github.com/chethanuk)
 [![Twitter: BarcaTimes](https://img.shields.io/twitter/follow/BarcaTimes?style=social)](https://twitter.com/BarcaTimes)
 
 - 🚀 I use daily:
@@ -19,7 +19,7 @@ Connect with me here - [![Linkedin: ChethanUK](https://img.shields.io/badge/-che
 
 - ⚡️ Fun fact: I'm a huge fan of FC Barcelona, I love to travel and hike + ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
-[![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethanuk-plutoflume&theme=monokai)](https://github.com/chethanuk-plutoflume)
+[![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethanuk&theme=monokai)](https://github.com/chethanuk)
 
 Technical Skills & Tools: 
  - Languages: ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;, SQL, ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
@@ -30,10 +30,10 @@ Technical Skills & Tools:
  - Databases: MySQL, PSQL, MongoDB, Cassandra, Redis, ElasticSearch, BigQuery, Pinot
  - Cloud: GCP (Google Cloud Platform) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white), AWS ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=chethanuk-plutoflume&theme=dark&show_icons=true)](https://github.com/chethanuk-plutoflume)
+[![github stats](https://github-readme-stats.vercel.app/api?username=chethanuk&theme=dark&show_icons=true)](https://github.com/chethanuk)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethanuk-plutoflume&theme=monokai)
-![github Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chethanuk-plutoflume&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chethanuk&theme=monokai)
+![github Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chethanuk&theme=default)
 
 I get excited about opportunities where I'm able to leverage big data to discover insights and identify patterns that have real human impact.
 I love connecting with new people, give me a shout at chethanuk@outlook.com or here on [![Linkedin: ChethanUK](https://img.shields.io/badge/-chethanuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethanuk/)](https://www.linkedin.com/in/chethanuk/)!
