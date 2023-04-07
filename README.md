@@ -101,10 +101,10 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/chethanuk-plutoflume/seedspark/pull/47) in [chethanuk-plutoflume/seedspark](https://github.com/chethanuk-plutoflume/seedspark)
-2. 🎉 Merged PR [#46](https://github.com/chethanuk-plutoflume/seedspark/pull/46) in [chethanuk-plutoflume/seedspark](https://github.com/chethanuk-plutoflume/seedspark)
-3. 💪 Opened PR [#46](https://github.com/chethanuk-plutoflume/seedspark/pull/46) in [chethanuk-plutoflume/seedspark](https://github.com/chethanuk-plutoflume/seedspark)
-4. 💪 Opened PR [#62](https://github.com/chethanuk-plutoflume/airflow-1/pull/62) in [chethanuk-plutoflume/airflow-1](https://github.com/chethanuk-plutoflume/airflow-1)
+1. 💪 Opened PR [#2354](https://github.com/mage-ai/mage-ai/pull/2354) in [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
+2. 🎉 Merged PR [#47](https://github.com/chethanuk-plutoflume/seedspark/pull/47) in [chethanuk-plutoflume/seedspark](https://github.com/chethanuk-plutoflume/seedspark)
+3. 🎉 Merged PR [#46](https://github.com/chethanuk-plutoflume/seedspark/pull/46) in [chethanuk-plutoflume/seedspark](https://github.com/chethanuk-plutoflume/seedspark)
+4. 💪 Opened PR [#46](https://github.com/chethanuk-plutoflume/seedspark/pull/46) in [chethanuk-plutoflume/seedspark](https://github.com/chethanuk-plutoflume/seedspark)
 5. 💪 Opened PR [#55](https://github.com/chethanuk-plutoflume/airflow-1/pull/55) in [chethanuk-plutoflume/airflow-1](https://github.com/chethanuk-plutoflume/airflow-1)
 <!--END_SECTION:activity-->
 
