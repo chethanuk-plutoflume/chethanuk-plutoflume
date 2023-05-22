@@ -102,11 +102,11 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/awslabs/aws-athena-query-federation/issues/360) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-2. 🗣 Commented on [#2355](https://github.com/mage-ai/mage-ai/issues/2355) in [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
-3. 💪 Opened PR [#2355](https://github.com/mage-ai/mage-ai/pull/2355) in [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
-4. 💪 Opened PR [#2354](https://github.com/mage-ai/mage-ai/pull/2354) in [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
-5. 🎉 Merged PR [#46](https://github.com/chethanuk-plutoflume/seedspark/pull/46) in [chethanuk-plutoflume/seedspark](https://github.com/chethanuk-plutoflume/seedspark)
+1. 🎉 Merged PR [#48](https://github.com/chethanuk/seedspark/pull/48) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+2. 🗣 Commented on [#360](https://github.com/awslabs/aws-athena-query-federation/issues/360) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+3. 🗣 Commented on [#2355](https://github.com/mage-ai/mage-ai/issues/2355) in [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
+4. 💪 Opened PR [#2355](https://github.com/mage-ai/mage-ai/pull/2355) in [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
+5. 💪 Opened PR [#2354](https://github.com/mage-ai/mage-ai/pull/2354) in [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
 <!--END_SECTION:activity-->
 
 ---
