@@ -102,11 +102,11 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#649](https://github.com/sdkman/sdkman-db-migrations/issues/649) in [sdkman/sdkman-db-migrations](https://github.com/sdkman/sdkman-db-migrations)
-2. 💪 Opened PR [#649](https://github.com/sdkman/sdkman-db-migrations/pull/649) in [sdkman/sdkman-db-migrations](https://github.com/sdkman/sdkman-db-migrations)
-3. 🎉 Merged PR [#48](https://github.com/chethanuk/seedspark/pull/48) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-4. 🗣 Commented on [#360](https://github.com/awslabs/aws-athena-query-federation/issues/360) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-5. 🗣 Commented on [#2355](https://github.com/mage-ai/mage-ai/issues/2355) in [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
+1. 🗣 Commented on [#58](https://github.com/chethanuk/seedspark/issues/58) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+2. 🗣 Commented on [#649](https://github.com/sdkman/sdkman-db-migrations/issues/649) in [sdkman/sdkman-db-migrations](https://github.com/sdkman/sdkman-db-migrations)
+3. 💪 Opened PR [#649](https://github.com/sdkman/sdkman-db-migrations/pull/649) in [sdkman/sdkman-db-migrations](https://github.com/sdkman/sdkman-db-migrations)
+4. 🎉 Merged PR [#48](https://github.com/chethanuk/seedspark/pull/48) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+5. 🗣 Commented on [#360](https://github.com/awslabs/aws-athena-query-federation/issues/360) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
 <!--END_SECTION:activity-->
 
 ---
