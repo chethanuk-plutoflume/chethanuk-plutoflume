@@ -102,11 +102,11 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/aws-samples/easy-amazon-sagemaker-deployments/pull/14) in [aws-samples/easy-amazon-sagemaker-deployments](https://github.com/aws-samples/easy-amazon-sagemaker-deployments)
-2. 🗣 Commented on [#58](https://github.com/chethanuk/seedspark/pull/58#issuecomment-1615999544) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-3. 🗣 Commented on [#649](https://github.com/sdkman/sdkman-db-migrations/pull/649#issuecomment-1576117187) in [sdkman/sdkman-db-migrations](https://github.com/sdkman/sdkman-db-migrations)
-4. 💪 Opened PR [#649](https://github.com/sdkman/sdkman-db-migrations/pull/649) in [sdkman/sdkman-db-migrations](https://github.com/sdkman/sdkman-db-migrations)
-5. 🎉 Merged PR [#48](https://github.com/chethanuk/seedspark/pull/48) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+1. 🗣 Commented on [#14](https://github.com/aws-samples/easy-amazon-sagemaker-deployments/pull/14#issuecomment-1644592804) in [aws-samples/easy-amazon-sagemaker-deployments](https://github.com/aws-samples/easy-amazon-sagemaker-deployments)
+2. 💪 Opened PR [#14](https://github.com/aws-samples/easy-amazon-sagemaker-deployments/pull/14) in [aws-samples/easy-amazon-sagemaker-deployments](https://github.com/aws-samples/easy-amazon-sagemaker-deployments)
+3. 🗣 Commented on [#58](https://github.com/chethanuk/seedspark/pull/58#issuecomment-1615999544) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+4. 🗣 Commented on [#649](https://github.com/sdkman/sdkman-db-migrations/pull/649#issuecomment-1576117187) in [sdkman/sdkman-db-migrations](https://github.com/sdkman/sdkman-db-migrations)
+5. 💪 Opened PR [#649](https://github.com/sdkman/sdkman-db-migrations/pull/649) in [sdkman/sdkman-db-migrations](https://github.com/sdkman/sdkman-db-migrations)
 <!--END_SECTION:activity-->
 
 ---
