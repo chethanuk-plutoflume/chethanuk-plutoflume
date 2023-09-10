@@ -102,11 +102,11 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1429](https://github.com/awslabs/aws-athena-query-federation/pull/1429#issuecomment-1708948322) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-2. 🎉 Merged PR [#56](https://github.com/chethanuk/seedspark/pull/56) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-3. 🎉 Merged PR [#59](https://github.com/chethanuk/seedspark/pull/59) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-4. 💪 Opened PR [#562](https://github.com/vllm-project/vllm/pull/562) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-5. 🗣 Commented on [#14](https://github.com/aws-samples/easy-amazon-sagemaker-deployments/pull/14#issuecomment-1644592804) in [aws-samples/easy-amazon-sagemaker-deployments](https://github.com/aws-samples/easy-amazon-sagemaker-deployments)
+1. ❗ Opened issue [#1464](https://github.com/awslabs/aws-athena-query-federation/issues/1464) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+2. 🗣 Commented on [#1429](https://github.com/awslabs/aws-athena-query-federation/pull/1429#issuecomment-1708948322) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+3. 🎉 Merged PR [#56](https://github.com/chethanuk/seedspark/pull/56) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+4. 🎉 Merged PR [#59](https://github.com/chethanuk/seedspark/pull/59) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+5. 💪 Opened PR [#562](https://github.com/vllm-project/vllm/pull/562) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ---
