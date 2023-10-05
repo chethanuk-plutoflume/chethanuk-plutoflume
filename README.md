@@ -102,11 +102,11 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1464](https://github.com/awslabs/aws-athena-query-federation/issues/1464) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-2. 🗣 Commented on [#1429](https://github.com/awslabs/aws-athena-query-federation/pull/1429#issuecomment-1708948322) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-3. 🎉 Merged PR [#56](https://github.com/chethanuk/seedspark/pull/56) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-4. 🎉 Merged PR [#59](https://github.com/chethanuk/seedspark/pull/59) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-5. 💪 Opened PR [#562](https://github.com/vllm-project/vllm/pull/562) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. ❗ Opened issue [#2138](https://github.com/delta-io/delta/issues/2138) in [delta-io/delta](https://github.com/delta-io/delta)
+2. ❗ Opened issue [#1464](https://github.com/awslabs/aws-athena-query-federation/issues/1464) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+3. 🗣 Commented on [#1429](https://github.com/awslabs/aws-athena-query-federation/pull/1429#issuecomment-1708948322) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+4. 🎉 Merged PR [#56](https://github.com/chethanuk/seedspark/pull/56) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+5. 🎉 Merged PR [#59](https://github.com/chethanuk/seedspark/pull/59) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
 <!--END_SECTION:activity-->
 
 ---
