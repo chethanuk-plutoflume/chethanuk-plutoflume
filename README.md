@@ -102,11 +102,11 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1094](https://github.com/superfly/docs/pull/1094) in [superfly/docs](https://github.com/superfly/docs)
-2. ❗ Opened issue [#2138](https://github.com/delta-io/delta/issues/2138) in [delta-io/delta](https://github.com/delta-io/delta)
-3. ❗ Opened issue [#1464](https://github.com/awslabs/aws-athena-query-federation/issues/1464) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-4. 🗣 Commented on [#1429](https://github.com/awslabs/aws-athena-query-federation/pull/1429#issuecomment-1708948322) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-5. 🎉 Merged PR [#56](https://github.com/chethanuk/seedspark/pull/56) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+1. 💪 Opened PR [#29](https://github.com/pytorch-labs/gpt-fast/pull/29) in [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)
+2. 💪 Opened PR [#1094](https://github.com/superfly/docs/pull/1094) in [superfly/docs](https://github.com/superfly/docs)
+3. ❗ Opened issue [#2138](https://github.com/delta-io/delta/issues/2138) in [delta-io/delta](https://github.com/delta-io/delta)
+4. ❗ Opened issue [#1464](https://github.com/awslabs/aws-athena-query-federation/issues/1464) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+5. 🗣 Commented on [#1429](https://github.com/awslabs/aws-athena-query-federation/pull/1429#issuecomment-1708948322) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
 <!--END_SECTION:activity-->
 
 ---
