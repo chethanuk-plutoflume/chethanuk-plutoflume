@@ -102,10 +102,10 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/awslabs/aws-athena-query-federation/issues/360#issuecomment-1908593619) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-2. 🗣 Commented on [#29](https://github.com/pytorch-labs/gpt-fast/pull/29#issuecomment-1842024956) in [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)
-3. 💪 Opened PR [#29](https://github.com/pytorch-labs/gpt-fast/pull/29) in [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)
-4. ❗ Opened issue [#2138](https://github.com/delta-io/delta/issues/2138) in [delta-io/delta](https://github.com/delta-io/delta)
+1. 🎉 Merged PR [#64](https://github.com/chethanuk/seedspark/pull/64) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+2. 🗣 Commented on [#360](https://github.com/awslabs/aws-athena-query-federation/issues/360#issuecomment-1908593619) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+3. 🗣 Commented on [#29](https://github.com/pytorch-labs/gpt-fast/pull/29#issuecomment-1842024956) in [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)
+4. 💪 Opened PR [#29](https://github.com/pytorch-labs/gpt-fast/pull/29) in [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)
 5. ❗ Opened issue [#1464](https://github.com/awslabs/aws-athena-query-federation/issues/1464) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
 <!--END_SECTION:activity-->
 
