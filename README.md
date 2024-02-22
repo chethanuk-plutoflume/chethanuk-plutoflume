@@ -102,11 +102,11 @@ I love connecting with new people, give me a shout at chethanuk@outlook.com or o
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#93](https://github.com/chethanuk/seedspark/pull/93) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-2. ❌ Closed PR [#92](https://github.com/chethanuk/seedspark/pull/92) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-3. ❌ Closed PR [#91](https://github.com/chethanuk/seedspark/pull/91) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-4. ❌ Closed PR [#90](https://github.com/chethanuk/seedspark/pull/90) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
-5. ❌ Closed PR [#88](https://github.com/chethanuk/seedspark/pull/88) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+1. ❌ Closed PR [#98](https://github.com/chethanuk/seedspark/pull/98) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+2. ❌ Closed PR [#94](https://github.com/chethanuk/seedspark/pull/94) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+3. ❌ Closed PR [#93](https://github.com/chethanuk/seedspark/pull/93) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+4. ❌ Closed PR [#92](https://github.com/chethanuk/seedspark/pull/92) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
+5. ❌ Closed PR [#91](https://github.com/chethanuk/seedspark/pull/91) in [chethanuk/seedspark](https://github.com/chethanuk/seedspark)
 <!--END_SECTION:activity-->
 
 ---
