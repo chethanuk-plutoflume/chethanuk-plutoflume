@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=Hey%2C+I+am+Chethan+Umesha+Kyathanahalli)](https://git.io/typing-svg)
 
-🔭 I am a seasoned **Senior Data and ML Engineer** who is architecting resilient scalable Machine Learning pipelines, data pipelines and DataML Infrastructure in Cloud Native stack that unlock and solve intricate challenges for global startups. </br>
+🔭 I am a seasoned Senior AI/ML Engineer who is architecting resilient, scalable data pipelines and DataML Infrastructure, LLM applications and GenAI systems - orchestrating RAG/AI/Data pipelines and building autonomous AI agents or fine-tuning foundation models, Machine Learning pipelines, and MLOps infrastructure. I specialize in production-grade AI systems, RAG pipelines, and cloud-native solutions that solve complex challenges for global startups </br>
 Also, Actively contributing to Apache Airflow, [Apache Pinot](https://www.startree.ai/blogs/apache-pinots-graduation-a-celebration-of-community-and-a-look-ahead) and other open-source projects
 
 "You have to dream before your dreams come true."
